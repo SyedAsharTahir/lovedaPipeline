@@ -1,0 +1,5 @@
+.env
+data/
+*.png
+*.jpg
+*.tif
